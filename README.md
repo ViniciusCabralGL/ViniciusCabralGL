@@ -67,7 +67,7 @@ Areas of Knowledge
 - DevOps
 - Software Architecture
 - Software engineering
-- Atomation
+- Automation
 - AIoT
 - Microservices
 
